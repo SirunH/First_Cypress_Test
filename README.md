@@ -1,3 +1,10 @@
+# In this e2e test, we  should
+1.  Login with valid credentials on the https://www.saucedemo.com/ page
+2. Filter products
+3. Add product
+4. Check cart list
+5. Delete product from cart list
+6. Log out
 ## Getting started
 ### Setup
 > 1.GLOBAL DEPENDENCIES
